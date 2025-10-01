@@ -4,7 +4,7 @@ This repository contains a complete, step-by-step Jupyter Notebook demonstrating
 
 While fine-tuning LLMs is a popular topic, optimizing the "Retrieval" part of Retrieval-Augmented Generation (RAG) is often overlooked. This project addresses that gap by providing a modern, robust, and easy-to-follow guide for specializing an embedding model, which is critical for high-quality retrieval.
 
-This code is the basis for the Medium article: **[Most RAG Tutorials Are Incomplete. Here's How to Properly Fine-Tune Your Embedding Model]([https://your-medium-link-here](https://medium.com/@petroschol123/most-rag-tutorials-are-incomplete-heres-how-to-properly-fine-tune-your-embedding-model-773a758d998a))**.
+This code is the basis for the Medium article: **[Most RAG Tutorials Are Incomplete. Here's How to Properly Fine-Tune Your Embedding Model](https://medium.com/@petroschol123/most-rag-tutorials-are-incomplete-heres-how-to-properly-fine-tune-your-embedding-model-773a758d998a)**.
 
 ## Key Features
 
